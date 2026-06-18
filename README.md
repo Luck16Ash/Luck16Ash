@@ -9,15 +9,12 @@
 
 <div align="center">
 
-<!-- Chuva Matrix animada via GitHub Pages -->
-<a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
-  <img
-    src="https://luck16ash.github.io/Luck16Ash/matrix.html"
-    alt="Matrix Rain — Luca Simões D'Agostino"
-    width="100%"
-    height="200"
-  />
-</a>
+<!-- Chuva Matrix animada — GIF gerado localmente -->
+<img
+  src="./matrix-rain.gif"
+  alt="Matrix Rain — Luca Simões D'Agostino"
+  width="100%"
+/>
 
 <br/>
 
@@ -185,9 +182,7 @@
 <!-- ░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
-    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain divisor" width="100%" height="200" />
-  </a>
+  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
 </div>
 
 <div align="center">
@@ -224,9 +219,7 @@
 <!-- ░░░░░░░░░░░░░░░ CONTATOS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
-    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain divisor" width="100%" height="200" />
-  </a>
+  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
 </div>
 
 <div align="center">
@@ -243,9 +236,7 @@
 
 <!-- FOOTER MATRIX -->
 <div align="center">
-  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
-    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain footer" width="100%" height="200" />
-  </a>
+  <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
 </div>
 
 <!--
