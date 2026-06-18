@@ -30,7 +30,7 @@
 <!-- ░░░░░░░░░░░░░░░ SOBRE MIM ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+SOBRE+MIM+%5D" alt="Sobre Mim" />
+  <img src="./matrix-sobre-mim.gif" alt="Sobre Mim" width="100%" />
 </div>
 
 <table>
@@ -51,7 +51,7 @@
 <!-- ░░░░░░░░░░░░░░░ PRATELEIRAS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+PERFIL+%5D" alt="Perfil" />
+  <img src="./matrix-perfil.gif" alt="Perfil" width="100%" />
 </div>
 
 <div align="center">
@@ -68,7 +68,7 @@
 <!-- ░░░░░░░░░░░░░░░ PROJETOS EM DESTAQUE ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+PROJETOS+EM+DESTAQUE+%5D" alt="Projetos" />
+  <img src="./matrix-projetos.gif" alt="Projetos em Destaque" width="100%" />
 </div>
 
 <table>
@@ -138,7 +138,7 @@
 <!-- ░░░░░░░░░░░░░░░ O QUE ENTREGO ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+O+QUE+ENTREGO+%5D" alt="O que entrego" />
+  <img src="./matrix-o-que-entrego.gif" alt="O Que Entrego" width="100%" />
 </div>
 
 <div align="center">
@@ -154,7 +154,7 @@
 <!-- ░░░░░░░░░░░░░░░ STACKS ANIMADAS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+TECNOLOGIAS+%5D" alt="Tecnologias" />
+  <img src="./matrix-tecnologias.gif" alt="Tecnologias" width="100%" />
 </div>
 
 <div align="center">
@@ -182,7 +182,7 @@
 <!-- ░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+GITHUB+STATUS+%5D" alt="GitHub Status" />
+  <img src="./matrix-github-status.gif" alt="GitHub Status" width="100%" />
 </div>
 
 <div align="center">
@@ -219,7 +219,7 @@
 <!-- ░░░░░░░░░░░░░░░ CONTATOS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+CONTATO+%5D" alt="Contato" />
+  <img src="./matrix-contato.gif" alt="Contato" width="100%" />
 </div>
 
 <div align="center">
