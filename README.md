@@ -182,10 +182,6 @@
 <!-- ░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+GITHUB+STATUS+%5D" alt="GitHub Status" />
 </div>
 
@@ -205,6 +201,10 @@
 </div>
 
 <div align="center">
+  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
+</div>
+
+<div align="center">
 
 <img
   width="100%"
@@ -219,10 +219,6 @@
 <!-- ░░░░░░░░░░░░░░░ CONTATOS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+CONTATO+%5D" alt="Contato" />
 </div>
 
@@ -234,7 +230,7 @@
 
 </div>
 
-<!-- FOOTER MATRIX -->
+<!-- FOOTER MATRIX — abaixo dos contatos -->
 <div align="center">
   <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
 </div>
