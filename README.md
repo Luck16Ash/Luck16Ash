@@ -9,25 +9,15 @@
 
 <div align="center">
 
-<!--
-  INSTRUÇÃO DE SETUP — CHUVA MATRIX NO HERO:
-  O GitHub não executa JavaScript no README, então a chuva Matrix
-  precisa ser um SVG animado externo. Use o serviço abaixo:
-  https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=200&section=header&text=Luca%20Sim%C3%B5es%20D%27Agostino&fontSize=28&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma%20%7C%20DSM%20%E2%80%94%20FATEC&descAlignY=58&descSize=14&descColor=00C853
-  Cole a URL no <img> abaixo quando tiver publicado o README.
--->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=200&section=header&text=Luca%20Sim%C3%B5es%20D%27Agostino&fontSize=28&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma%20%7C%20DSM%20%E2%80%94%20FATEC&descAlignY=58&descSize=14&descColor=00C853"
-  alt="Header Matrix — Luca Simões D'Agostino"
-  width="100%"
-/>
-
-<!-- TYPING SVG animado -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Multiplataforma;Estudante+de+DSM+na+FATEC+Zona+Sul;Construindo+solu%C3%A7%C3%B5es+para+problemas+reais;PHP+%7C+Node.js+%7C+MySQL+%7C+MongoDB"
-  alt="Typing SVG Matrix"
-/>
+<!-- Chuva Matrix animada via GitHub Pages -->
+<a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
+  <img
+    src="https://luck16ash.github.io/Luck16Ash/matrix.html"
+    alt="Matrix Rain — Luca Simões D'Agostino"
+    width="100%"
+    height="200"
+  />
+</a>
 
 <br/>
 
@@ -113,16 +103,17 @@
         Modelagem de dados · Separação de responsabilidades · Raciocínio de perfis de acesso
       </p>
     </td>
-    <!-- Studio Patty Leão — PLACEHOLDER -->
+    <!-- Studio Patty Leão — contribuidor -->
     <td width="50%" valign="top">
       <h3 align="center">💇 Studio Patty Leão</h3>
-      <!--
-        ⚠️  INSTRUÇÃO: Este projeto está atualmente no repositório
-        https://github.com/maxgodoydev-dotcom/studio-patty-leao
-        Se você tiver um fork ou repositório próprio deste projeto,
-        substitua o link abaixo pelo seu repositório.
-        Enquanto isso, o card descritivo já está pronto abaixo.
-      -->
+      <p align="center">
+        <a href="https://github.com/maxgodoydev-dotcom/studio-patty-leao">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxgodoydev-dotcom&repo=studio-patty-leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300" alt="Studio Patty Leão" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/contribuidor-00FF41?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" alt="Contribuidor" />
+      </p>
       <p><strong>ERP web para salão de beleza — sistema em produção.</strong></p>
       <p>
         <strong>🎯 Problema:</strong> Controles fragmentados em cadernos, planilhas e mensagens avulsas.<br/>
@@ -194,6 +185,12 @@
 <!-- ░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
+  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
+    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain divisor" width="100%" height="200" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+GITHUB+STATUS+%5D" alt="GitHub Status" />
 </div>
 
@@ -227,6 +224,12 @@
 <!-- ░░░░░░░░░░░░░░░ CONTATOS ░░░░░░░░░░░░░░░ -->
 
 <div align="center">
+  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
+    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain divisor" width="100%" height="200" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=400&lines=%5B+CONTATO+%5D" alt="Contato" />
 </div>
 
@@ -238,12 +241,12 @@
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=120&section=footer"
-  alt="Footer Matrix"
-  width="100%"
-/>
+<!-- FOOTER MATRIX -->
+<div align="center">
+  <a href="https://luck16ash.github.io/Luck16Ash/matrix.html">
+    <img src="https://luck16ash.github.io/Luck16Ash/matrix.html" alt="Matrix Rain footer" width="100%" height="200" />
+  </a>
+</div>
 
 <!--
 ╔══════════════════════════════════════════════════════════════╗
@@ -251,13 +254,9 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  1. Crie o repositório: github.com/Luck16Ash/Luck16Ash       ║
 ║     (nome idêntico ao seu usuário)                           ║
-║  2. Cole este README.md nesse repositório                    ║
-║  3. Studio Patty Leão: se você tem fork próprio,             ║
-║     substitua o bloco de placeholder pelo pin-card oficial:  ║
-║     https://github-readme-stats.vercel.app/api/pin/          ║
-║     ?username=Luck16Ash&repo=SEU_REPO&bg_color=000000        ║
-║     &title_color=00FF41&text_color=00C853&border_color=003300║
-║  4. Verifique se skillicons.dev está carregando os ícones    ║
-║     corretamente (às vezes Java aparece como "unavailable")  ║
+║  2. Suba AMBOS os arquivos na raiz do repositório:           ║
+║     - README.md                                              ║
+║     - matrix.html  ← página da animação (GitHub Pages)      ║
+║  3. Verifique se skillicons.dev carregou todos os ícones     ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
