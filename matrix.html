@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #000; overflow: hidden; width: 900px; height: 200px; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+<canvas id="c" width="900" height="200"></canvas>
+<script>
+  const canvas = document.getElementById('c');
+  const ctx = canvas.getContext('2d');
+  const W = 900, H = 200;
+  const fontSize = 13;
+  const cols = Math.floor(W / fontSize);
+  const drops = Array(cols).fill(1).map(() => Math.random() * -50);
+
+  function draw() {
+    ctx.fillStyle = 'rgba(0,0,0,0.1)';
+    ctx.fillRect(0, 0, W, H);
+
+    for (let i = 0; i < drops.length; i++) {
+      const char = Math.random() > 0.5 ? '1' : '0';
+      const brightness = Math.random();
+
+      if (brightness > 0.92) {
+        ctx.fillStyle = '#ccffcc';
+      } else if (brightness > 0.6) {
+        ctx.fillStyle = '#00FF41';
+      } else if (brightness > 0.3) {
+        ctx.fillStyle = '#00aa00';
+      } else {
+        ctx.fillStyle = '#005500';
+      }
+
+      ctx.font = fontSize + 'px Courier New, monospace';
+      ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+
+      if (drops[i] * fontSize > H && Math.random() > 0.975) {
+        drops[i] = 0;
+      }
+      drops[i]++;
+    }
+
+    // Nome centralizado
+    ctx.fillStyle = 'rgba(0,0,0,0.01)';
+    ctx.fillRect(200, 70, 500, 100);
+
+    ctx.fillStyle = '#00FF41';
+    ctx.font = 'bold 26px Courier New, monospace';
+    ctx.textAlign = 'center';
+    ctx.fillText("LUCA D'AGOSTINO", W / 2, 105);
+
+    ctx.fillStyle = '#00C853';
+    ctx.font = '12px Courier New, monospace';
+    ctx.fillText('Desenvolvedor Multiplataforma  |  DSM — FATEC Zona Sul', W / 2, 128);
+    ctx.fillText('Construindo soluções para problemas reais', W / 2, 148);
+
+    // Cursor piscando
+    const blink = Math.floor(Date.now() / 500) % 2 === 0;
+    if (blink) {
+      ctx.fillStyle = '#00FF41';
+      ctx.fillText('_', W / 2, 170);
+    }
+  }
+
+  setInterval(draw, 50);
+</script>
+</body>
+</html>
