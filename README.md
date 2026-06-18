@@ -9,9 +9,9 @@
 
 <div align="center">
 
-<!-- Chuva Matrix animada — GIF gerado localmente -->
+<!-- Hero Matrix com nome -->
 <img
-  src="./matrix-rain.gif"
+  src="./matrix-hero.gif"
   alt="Matrix Rain — Luca Simões D'Agostino"
   width="100%"
 />
