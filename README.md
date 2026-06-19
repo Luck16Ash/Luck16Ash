@@ -157,25 +157,30 @@
   <img src="./matrix-tecnologias.gif" alt="Tecnologias" width="100%" />
 </div>
 
-<div align="center">
-
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=dark" />
-
-**Back-end & Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-**Frameworks & UI**
-
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
+      <div><img src="https://img.shields.io/badge/LINGUAGENS-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=dark" />
+    </td>
+    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
+      <div><img src="https://img.shields.io/badge/BACK--END%20%26%20BD-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+    </td>
+    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
+      <div><img src="https://img.shields.io/badge/FRAMEWORKS%20%26%20UI-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+    </td>
+    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
+      <div><img src="https://img.shields.io/badge/FERRAMENTAS-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -235,3 +240,15 @@
   <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
 </div>
 
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║  CHECKLIST DE SETUP — leia antes de publicar                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  1. Crie o repositório: github.com/Luck16Ash/Luck16Ash       ║
+║     (nome idêntico ao seu usuário)                           ║
+║  2. Suba AMBOS os arquivos na raiz do repositório:           ║
+║     - README.md                                              ║
+║     - matrix.html  ← página da animação (GitHub Pages)      ║
+║  3. Verifique se skillicons.dev carregou todos os ícones     ║
+╚══════════════════════════════════════════════════════════════╝
+-->
