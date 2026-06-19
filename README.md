@@ -58,7 +58,7 @@
 
 | 🎓 Formação | 🎯 Objetivo | 💡 Abordagem |
 |:-----------:|:-----------:|:------------:|
-| DSM · FATEC Zona Sul | Estágio em dev web / full-stack ou dados BI, IA & automação | Problema → Solução → Entrega |
+| DSM · FATEC Zona Sul | Estágio em dev web / full-stack | Problema → Solução → Entrega |
 | 4º semestre · Conclusão 2027 | Soluções com impacto real | Código orientado a propósito |
 
 </div>
@@ -128,6 +128,11 @@
       <p align="center" style="font-size:12px">
         <strong>Soft-skills evidenciadas:</strong><br/>
         Visão de produto · Empatia com usuário real · Entrega em ambiente de produção
+      </p>
+      <p align="center">
+        <a href="https://studio-patty-leao.onrender.com">
+          <img src="https://img.shields.io/badge/ACESSAR%20PLATAFORMA-171B18?style=for-the-badge&logo=render&logoColor=D6C5A1" />
+        </a>
       </p>
     </td>
   </tr>
@@ -199,7 +204,7 @@
 />
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=400"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=600"
   alt="Top Langs Luca"
 />
 
