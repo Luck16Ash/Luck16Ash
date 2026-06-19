@@ -58,7 +58,7 @@
 
 | 🎓 Formação | 🎯 Objetivo | 💡 Abordagem |
 |:-----------:|:-----------:|:------------:|
-| DSM · FATEC Zona Sul | Estágio em dev web / full-stack | Problema → Solução → Entrega |
+| DSM · FATEC Zona Sul | Estágio em dev web / full-stack ou dados BI, IA & automação | Problema → Solução → Entrega |
 | 4º semestre · Conclusão 2027 | Soluções com impacto real | Código orientado a propósito |
 
 </div>
