@@ -198,7 +198,7 @@
   alt="Stats Luca"
 />
 <img
-  height="185"
+  height="165"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=600"
   alt="Top Langs Luca"
 />
