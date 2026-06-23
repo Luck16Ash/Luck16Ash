@@ -41,7 +41,7 @@
       Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC Zona Sul.<br/><br/>
       Meu foco está em <strong>transformar problemas reais em soluções funcionais</strong> — não em criar projetos genéricos para portfólio.<br/><br/>
       Cada projeto que você vai encontrar aqui nasceu de uma necessidade concreta: automatizar, organizar e simplificar processos que alguém dependia de cadernos, planilhas ou mensagens avulsas.<br/><br/>
-      Atualmente buscando <strong>oportunidade de estágio</strong> em desenvolvimento web ou full-stack.
+      Atualmente buscando <strong>oportunidade de estágio</strong> em desenvolvimento web ou em dados, para futuramente me tornar um dev full-stack.
     </td>
   </tr>
 </table>
