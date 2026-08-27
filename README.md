@@ -20,7 +20,6 @@
 
 <!-- Badges de localização / curso / status -->
 ![Localização](https://img.shields.io/badge/São%20Paulo%2C%20Brasil-000000?style=flat-square&labelColor=000000&color=003300&logo=googlemaps&logoColor=00FF41)
-![Curso](https://img.shields.io/badge/DSM%20—%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Aberto%20a%20estágio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
 
 </div>
