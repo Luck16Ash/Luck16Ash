@@ -200,20 +200,3 @@
 
 </div>
 
-<!-- FOOTER MATRIX — abaixo dos contatos -->
-<div align="center">
-  <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
-</div>
-
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  CHECKLIST DE SETUP — leia antes de publicar                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  1. Crie o repositório: github.com/Luck16Ash/Luck16Ash       ║
-║     (nome idêntico ao seu usuário)                           ║
-║  2. Suba AMBOS os arquivos na raiz do repositório:           ║
-║     - README.md                                              ║
-║     - matrix.html  ← página da animação (GitHub Pages)      ║
-║  3. Verifique se skillicons.dev carregou todos os ícones     ║
-╚══════════════════════════════════════════════════════════════╝
--->
