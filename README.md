@@ -24,28 +24,6 @@
 
 </div>
 
----
-
-<!-- ░░░░░░░░░░░░░░░ SOBRE MIM ░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-  <img src="./matrix-sobre-mim.gif" alt="Sobre Mim" width="100%" />
-</div>
-
-<table>
-  <tr>
-    <td>
-      <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif Matrix" />
-      <br/>
-      Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC Zona Sul.<br/><br/>
-      Meu foco está em <strong>transformar problemas reais em soluções funcionais</strong> — não em criar projetos genéricos para portfólio.<br/><br/>
-      Cada projeto que você vai encontrar aqui nasceu de uma necessidade concreta: automatizar, organizar e simplificar processos que alguém dependia de cadernos, planilhas ou mensagens avulsas.<br/><br/>
-      Atualmente buscando <strong>oportunidade de estágio</strong> em desenvolvimento web ou em dados, para futuramente me tornar um dev full-stack.
-    </td>
-  </tr>
-</table>
-
----
 
 <!-- ░░░░░░░░░░░░░░░ PRATELEIRAS ░░░░░░░░░░░░░░░ -->
 
