@@ -138,23 +138,6 @@
   </tr>
 </table>
 
----
-
-<!-- ░░░░░░░░░░░░░░░ O QUE ENTREGO ░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-  <img src="./matrix-o-que-entrego.gif" alt="O Que Entrego" width="100%" />
-</div>
-
-<div align="center">
-
-| 🧠 Leitura do problema | ⚙️ Entrega estruturada | 🤝 Empatia com usuário | 📚 Aprendizado contínuo |
-|:----------------------:|:----------------------:|:----------------------:|:------------------------:|
-| Entendo antes de codar. Meus projetos nasceram de necessidades reais, não de tutoriais. | Separo responsabilidades e organizo o fluxo antes de abrir o editor. | Projetos feitos para pessoas reais. Usabilidade como critério de aceite. | De PHP + MySQL a Node + MongoDB em um semestre. Adaptação deliberada. |
-
-</div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░ STACKS ANIMADAS ░░░░░░░░░░░░░░░ -->
 
