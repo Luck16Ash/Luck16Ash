@@ -1,8 +1,5 @@
-
-
 <div align="center">
 
-<!-- Hero Matrix com nome -->
 <img
   src="./matrix-hero.gif"
   alt="Matrix Rain — Luca Simões D'Agostino"
@@ -11,7 +8,6 @@
 
 <br/>
 
-<!-- Badges de localização / curso / status -->
 ![Localização](https://img.shields.io/badge/São%20Paulo%2C%20Brasil-000000?style=flat-square&labelColor=000000&color=003300&logo=googlemaps&logoColor=00FF41)
 ![Curso](https://img.shields.io/badge/DSM%20—%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Aberto%20a%20estágio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
@@ -19,7 +15,9 @@
 </div>
 
 
-<!-- ░░░░░░░░░░░░░░░ PRATELEIRAS ░░░░░░░░░░░░░░░ -->
+---
+
+<!-- PERFIL -->
 
 <div align="center">
   <img src="./matrix-perfil.gif" alt="Perfil" width="100%" />
@@ -29,14 +27,14 @@
 
 | 🎓 Formação | 🎯 Objetivo | 💡 Abordagem |
 |:-----------:|:-----------:|:------------:|
-| DSM · FATEC Zona Sul | Estágio em dev back-end / full-stack e/ou Dados & Analytics| Problema → Solução → Entrega |
+| DSM · FATEC Zona Sul | Estágio em dev back-end / full-stack e/ou Dados & Analytics | Problema → Solução → Entrega |
 | 4º semestre · Conclusão 2027 | Soluções com impacto real | Código orientado a propósito |
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░ PROJETOS EM DESTAQUE ░░░░░░░░░░░░░░░ -->
+<!-- PROJETOS EM DESTAQUE -->
 
 <div align="center">
   <img src="./matrix-projetos.gif" alt="Projetos em Destaque" width="100%" />
@@ -44,12 +42,11 @@
 
 <table>
   <tr>
-    <!-- InteliBolsas -->
     <td width="50%" valign="top">
       <h3 align="center">🎓 InteliBolsas</h3>
       <p align="center">
         <a href="https://github.com/Luck16Ash/InteliBolsas">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luck16Ash&repo=InteliBolsas&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300" alt="InteliBolsas" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luck16Ash&repo=InteliBolsas&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="InteliBolsas" />
         </a>
       </p>
       <p><strong>Sistema acadêmico de gestão e divulgação de bolsas de estudo.</strong></p>
@@ -71,12 +68,11 @@
         Modelagem de dados · Separação de responsabilidades · Raciocínio de perfis de acesso
       </p>
     </td>
-    <!-- Studio Patty Leão — contribuidor -->
     <td width="50%" valign="top">
       <h3 align="center">💇 Studio Patty Leão</h3>
       <p align="center">
         <a href="https://github.com/maxgodoydev-dotcom/studio-patty-leao">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxgodoydev-dotcom&repo=studio-patty-leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300" alt="Studio Patty Leão" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxgodoydev-dotcom&repo=studio-patty-leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="Studio Patty Leão" />
         </a>
       </p>
       <p align="center">
@@ -113,7 +109,9 @@
 </table>
 
 
-<!-- ░░░░░░░░░░░░░░░ STACKS ANIMADAS ░░░░░░░░░░░░░░░ -->
+---
+
+<!-- TECNOLOGIAS -->
 
 <div align="center">
   <img src="./matrix-tecnologias.gif" alt="Tecnologias" width="100%" />
@@ -146,7 +144,7 @@
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░ -->
+<!-- GITHUB STATUS -->
 
 <div align="center">
   <img src="./matrix-github-status.gif" alt="GitHub Status" width="100%" />
@@ -156,12 +154,12 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
   alt="Stats Luca"
 />
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=600"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=600&cache_seconds=1800"
   alt="Top Langs Luca"
 />
 
@@ -183,7 +181,7 @@
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░ CONTATOS ░░░░░░░░░░░░░░░ -->
+<!-- CONTATO -->
 
 <div align="center">
   <img src="./matrix-contato.gif" alt="Contato" width="100%" />
@@ -197,9 +195,6 @@
 
 </div>
 
-<!-- FOOTER MATRIX — abaixo dos contatos -->
 <div align="center">
   <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
 </div>
-
-
