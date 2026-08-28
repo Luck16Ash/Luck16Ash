@@ -194,7 +194,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash)
 
 </div>
-
-<div align="center">
-  <img src="./matrix-rain.gif" alt="Matrix Rain footer" width="100%" />
-</div>
