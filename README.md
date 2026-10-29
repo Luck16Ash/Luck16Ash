@@ -145,3 +145,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash)
 
 </div>
+
+<!-- CONTADOR DE VISUALIZAÇÕES -->
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Luck16Ash&style=for-the-badge&color=003300&label=VISUALIZAÇÕES+DO+PERFIL"
+    alt="Contador de visualizações do perfil"
+  />
+</div>
