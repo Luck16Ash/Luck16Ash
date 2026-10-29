@@ -157,9 +157,10 @@
   src="https://github-readme-stats.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
   alt="Stats Luca"
 />
+
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&locale=pt-br&langs_count=8&card_width=600&cache_seconds=1800"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&langs_count=8&card_width=600"
   alt="Top Langs Luca"
 />
 
