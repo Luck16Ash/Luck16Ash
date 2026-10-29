@@ -26,7 +26,7 @@
       <h3 align="center">🎓 InteliBolsas</h3>
       <p align="center">
         <a href="https://github.com/Luck16Ash/InteliBolsas">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luck16Ash&repo=InteliBolsas&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="InteliBolsas" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Luck16Ash&repo=InteliBolsas&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="InteliBolsas" />
         </a>
       </p>
       <p><strong>Sistema acadêmico de gestão e divulgação de bolsas de estudo.</strong></p>
