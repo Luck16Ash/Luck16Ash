@@ -169,13 +169,11 @@
   <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
 </div>
 
+
 <div align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Luck16Ash&bg_color=000000&color=00FF41&line=00C853&point=00FF41&area=true&area_color=003300&hide_border=true&custom_title=Atividade%20no%20GitHub"
-  alt="Gráfico de atividade Matrix"
-/>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </div>
 
