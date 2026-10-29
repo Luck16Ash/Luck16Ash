@@ -52,7 +52,10 @@
       <h3 align="center">💇 Studio Patty Leão</h3>
       <p align="center">
         <a href="https://github.com/maxgodoydev-dotcom/studio-patty-leao">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=maxgodoydev-dotcom&repo=studio-patty-leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="Studio Patty Leão" />
+          <img
+  src="https://github-stats-extended.vercel.app/api/pin/?username=maxgodoydev&repo=Studio_Patty_Leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800"
+  alt="Studio Patty Leão"
+/>
         </a>
       </p>
       <p align="center">
