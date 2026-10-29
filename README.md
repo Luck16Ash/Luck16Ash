@@ -14,26 +14,6 @@
 
 </div>
 
-
----
-
-<!-- PERFIL -->
-
-<div align="center">
-  <img src="./matrix-perfil.gif" alt="Perfil" width="100%" />
-</div>
-
-<div align="center">
-
-| 🎓 Formação | 🎯 Objetivo | 💡 Abordagem |
-|:-----------:|:-----------:|:------------:|
-| DSM · FATEC Zona Sul | Estágio em dev back-end / full-stack e/ou Dados & Analytics | Problema → Solução → Entrega |
-| 4º semestre · Conclusão 2027 | Soluções com impacto real | Código orientado a propósito |
-
-</div>
-
----
-
 <!-- PROJETOS EM DESTAQUE -->
 
 <div align="center">
@@ -107,42 +87,6 @@
     </td>
   </tr>
 </table>
-
-
----
-
-<!-- TECNOLOGIAS -->
-
-<div align="center">
-  <img src="./matrix-tecnologias.gif" alt="Tecnologias" width="100%" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
-      <div><img src="https://img.shields.io/badge/LINGUAGENS-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=dark" />
-    </td>
-    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
-      <div><img src="https://img.shields.io/badge/BACK--END%20%26%20BD-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-    </td>
-    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
-      <div><img src="https://img.shields.io/badge/FRAMEWORKS%20%26%20UI-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
-    </td>
-    <td align="center" width="25%" style="border:1px solid #003300; background:#000; padding:16px">
-      <div><img src="https://img.shields.io/badge/FERRAMENTAS-000000?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" /></div>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
 
 <!-- GITHUB STATUS -->
 
