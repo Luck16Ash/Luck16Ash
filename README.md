@@ -22,32 +22,44 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 InteliBolsas</h3>
-      <p align="center">
-        <a href="https://github.com/Luck16Ash/InteliBolsas">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Luck16Ash&repo=InteliBolsas&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800" alt="InteliBolsas" />
-        </a>
-      </p>
-      <p><strong>Sistema acadêmico de gestão e divulgação de bolsas de estudo.</strong></p>
-      <p>
-        <strong>🎯 Problema:</strong> Informações de bolsas dispersas, sem estrutura de acesso por perfil.<br/>
-        <strong>✅ Solução:</strong> CRUD com separação de perfis (admin, estudante, instituição), filtros e banco relacional.<br/>
-        <strong>💡 Impacto:</strong> Centralização e consulta estruturada de oportunidades.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000&color=003300" />
-      </p>
-      <hr/>
-      <p align="center" style="font-size:12px">
-        <strong>Soft-skills evidenciadas:</strong><br/>
-        Modelagem de dados · Separação de responsabilidades · Raciocínio de perfis de acesso
-      </p>
-    </td>
+<td width="50%" valign="top">
+  <h3 align="center">💈 BarberShop Do Gui</h3>
+  <p align="center">
+    <a href="https://github.com/maxgodoydev/BarberShop-Do-Gui">
+      <img
+        src="https://github-stats-extended.vercel.app/api/pin/?username=maxgodoydev&repo=BarberShop-Do-Gui&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800"
+        alt="BarberShop Do Gui"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/contribuidor-00FF41?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" alt="Contribuidor" />
+  </p>
+  <p><strong>Sistema web para gerenciamento de barbearia.</strong></p>
+  <p>
+    <strong>🎯 Problema:</strong> Necessidade de organizar e automatizar processos operacionais de uma barbearia.<br/>
+    <strong>✅ Solução:</strong> Aplicação web com backend em Java e Spring Boot, estruturada para gerenciar as funcionalidades do negócio.<br/>
+    <strong>💡 Objetivo:</strong> Centralizar operações e facilitar a gestão da barbearia por meio de uma solução digital.
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PLpgSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41&labelColor=000000&color=003300" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000&color=003300" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000&color=003300" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000&color=003300" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000&color=003300" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000&color=003300" />
+</p>
+  <hr/>
+  <p align="center" style="font-size:12px">
+    <strong>Soft-skills evidenciadas:</strong><br/>
+    Colaboração em equipe · Resolução de problemas · Organização de código
+  </p>
+  <p align="center">
+    <a href="https://github.com/maxgodoydev/BarberShop-Do-Gui">
+      <img src="https://img.shields.io/badge/REPOSITÓRIO-171B18?style=for-the-badge&logo=github&logoColor=F1ECE2" />
+    </a>
+  </p>
+</td>
     <td width="50%" valign="top">
       <h3 align="center">💇 Studio Patty Leão</h3>
       <p align="center">
