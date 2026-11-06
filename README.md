@@ -135,10 +135,6 @@
 <!-- CONTATO -->
 
 <div align="center">
-  <img src="./matrix-contato.gif" alt="Contato" width="100%" />
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=003300)](https://www.linkedin.com/in/luca-d-agostino-a0061130b/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=003300)](mailto:ldagostino592@gmail.com)
