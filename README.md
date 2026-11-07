@@ -6,14 +6,14 @@
 ![Curso](https://img.shields.io/badge/DSM%20%E2%80%94%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
 
-**Estudante de Desenvolvimento de Software Multiplataforma, com foco em dados/BI e interesse em back-end.**
+**Estudante de Desenvolvimento de Software Multiplataforma, com foco em back-end e interesse em dados/BI.**
 
 <sub>EN: Software development student focused on back-end, interested in data/BI. Open to internships.</sub>
 
 </div>
 
 <div align="center">
-  <img src="./matrix-projetos.gif" alt="Projetos em Destaque" width="100%" />
+  <img src="./banner-projetos.png" alt="Projetos em Destaque" width="100%" />
 </div>
 
 | Sistema / Repositório | Descrição | Tecnologias | Acesso |
@@ -24,7 +24,7 @@
 | 🎓 **[InteliBolsas](https://github.com/Luck16Ash/InteliBolsas)** | Sistema acadêmico para gestão e divulgação de bolsas de estudo, com cadastro, filtros e organização dos dados. | ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41&labelColor=000000&color=003300) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=000000&color=003300) | [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash/InteliBolsas) |
 
 <div align="center">
-  <img src="./matrix-github-status.gif" alt="GitHub Status" width="100%" />
+  <img src="./banner-github-status.png" alt="GitHub Status" width="100%" />
 </div>
 
 <div align="center">
