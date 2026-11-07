@@ -43,6 +43,6 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=003300)](https://www.linkedin.com/in/luca-d-agostino-a0061130b/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=003300)](mailto:ldagostino592@gmail.com)
 
 </div>
