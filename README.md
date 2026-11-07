@@ -30,14 +30,13 @@
 <div align="center">
 
 <img
-  height="200"
-  src="https://github-stats-extended.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=Luck16Ash&show_icons=true&line_height=30&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
   alt="Stats Luca"
 />
-
 <img
-  height="200"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luck16Ash&layout=pie&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&langs_count=8&card_width=400"
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luck16Ash&layout=pie&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&langs_count=8&card_width=500"
   alt="Top Langs Luca"
 />
 
