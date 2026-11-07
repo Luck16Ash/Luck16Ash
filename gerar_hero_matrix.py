@@ -1,4 +1,4 @@
-"""Gera o banner do topo: chuva Matrix (verde sobre preto) com apenas o nome.
+"""Gera o banner do topo: chuva Matrix de 0 e 1 (verde sobre preto) com apenas o nome.
 Tudo local, sem serviço externo. Loop perfeito.
 Requer: pip install pillow
 Rode:  python gerar_hero_matrix.py   ->  matrix-hero.gif
@@ -6,25 +6,19 @@ Rode:  python gerar_hero_matrix.py   ->  matrix-hero.gif
 import os, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-NOME = "LUCA SIMÕES D'AGOSTINO"
+NOME = "LUCA D'AGOSTINO"
 SAIDA = "matrix-hero.gif"
 
 W, H, CELL = 1200, 240, 20
 COLS, ROWS = W // CELL, H // CELL
-TRAIL = 10
+TRAIL = 9
 L = ROWS + TRAIL            # ciclo de cada coluna
 N = 2 * L                   # nº de quadros (loop perfeito)
+PASSOS = N // 2             # o dígito troca a cada 2 quadros e fecha o ciclo no fim
 MS = 90                     # ms por quadro
 
-POOL = "アイウエオカキクケコサ"   # 11 glifos; N/4 = 11 => troca de glifo também fecha o loop
-
-# Ajuste os caminhos das fontes se rodar em outro sistema operacional
-CJK_CANDIDATAS = [
-    "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
-    "C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothR.ttc",
-    "/System/Library/Fonts/Hiragino Sans GB.ttc", "/System/Library/Fonts/ヒラギノ角ゴシック W3.ttc",
-]
-BOLD_CANDIDATAS = [
+# Ajuste os caminhos se rodar em outro sistema operacional
+FONTES = [
     "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
     "C:/Windows/Fonts/consolab.ttf", "/System/Library/Fonts/Menlo.ttc",
 ]
@@ -32,28 +26,27 @@ def acha(lista):
     for p in lista:
         if os.path.exists(p):
             return p
-    raise SystemExit("Fonte não encontrada. Edite as listas de caminhos no topo do script.")
+    raise SystemExit("Fonte não encontrada. Edite a lista FONTES no topo do script.")
 
-F_RAIN = ImageFont.truetype(acha(CJK_CANDIDATAS), 17)
-F_NOME = ImageFont.truetype(acha(BOLD_CANDIDATAS), 58)
-TRACK = 6
+F_RAIN = ImageFont.truetype(acha(FONTES), 18)
+F_NOME = ImageFont.truetype(acha(FONTES), 60)
+TRACK = 5
 
 random.seed(16)  # mesma chuva a cada execução
 cols = []
 for c in range(COLS):
-    ativa = random.random() < 0.78
     cols.append(dict(
-        ativa=ativa,
+        ativa=random.random() < 0.6,
         fase=random.randrange(L),
         vel=random.choice([1, 2, 2, 3]),          # meio-células por quadro
-        off=[random.randrange(len(POOL)) for _ in range(ROWS)],
+        bits=[[random.choice("01") for _ in range(PASSOS)] for _ in range(ROWS)],
     ))
 
 def cor(d):
     if d == 0:
-        return (190, 255, 205)                    # cabeça da gota
+        return (200, 255, 210)                    # cabeça da gota
     k = 1 - d / TRAIL
-    return (0, int(35 + 220 * k * k), int(10 + 45 * k * k))
+    return (int(20 * k), int(40 + 190 * k * k), int(20 + 60 * k * k))
 
 def chuva(t):
     img = Image.new("RGB", (W, H), (0, 0, 0))
@@ -66,7 +59,7 @@ def chuva(t):
             d = (head - r) % L
             if d >= TRAIL:
                 continue
-            ch = POOL[(col["off"][r] + t // 4) % len(POOL)]
+            ch = col["bits"][r][(t // 2) % PASSOS]
             x = c * CELL + (CELL - F_RAIN.getlength(ch)) / 2
             dr.text((x, r * CELL + 1), ch, font=F_RAIN, fill=cor(d))
     return img
@@ -74,7 +67,7 @@ def chuva(t):
 def largura(s):
     return sum(F_NOME.getlength(ch) + TRACK for ch in s) - TRACK
 
-# ---- camada fixa: faixa escura + brilho + nome ----
+# ---- camada fixa: faixa escura suave + brilho + nome ----
 tw = largura(NOME)
 assert tw < W - 120, "nome largo demais"
 x0 = (W - tw) / 2
@@ -89,17 +82,13 @@ for ch in NOME:
     x += F_NOME.getlength(ch) + TRACK
 
 banda = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-bd = ImageDraw.Draw(banda)
-bd.rounded_rectangle([x0 - 44, 62, x0 + tw + 44, H - 62], radius=8,
-                     fill=(0, 0, 0, 215), outline=(0, 51, 0, 255), width=2)
+ImageDraw.Draw(banda).rounded_rectangle([x0 - 46, 64, x0 + tw + 46, H - 64], radius=10,
+                                        fill=(0, 0, 0, 185))
 brilho = Image.new("RGBA", (W, H), (0, 150, 40, 0))
 brilho.putalpha(mask.filter(ImageFilter.GaussianBlur(9)).point(lambda v: min(255, int(v * 1.1))))
 texto = Image.new("RGBA", (W, H), (0, 255, 65, 0))
 texto.putalpha(mask)
 topo = Image.alpha_composite(Image.alpha_composite(banda, brilho), texto)
-bordas = ImageDraw.Draw(topo)
-bordas.rectangle([0, 0, W, 2], fill=(0, 51, 0, 255))
-bordas.rectangle([0, H - 3, W, H], fill=(0, 51, 0, 255))
 
 frames = []
 for t in range(N):
