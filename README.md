@@ -8,7 +8,7 @@
 
 **Estudante de Desenvolvimento de Software Multiplataforma, com foco em dados/BI e interesse em back-end.**
 
-<sub>EN: Software development student focused on back-end, interested in data/BI. Open to internships.</sub>
+<sub>EN: Software development student focused on data/BI, interested in back-end. Open to internships.</sub>
 
 </div>
 
