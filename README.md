@@ -6,9 +6,9 @@
 ![Curso](https://img.shields.io/badge/DSM%20%E2%80%94%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
 
-**Estudante de Desenvolvimento de Software Multiplataforma, com foco em dados/BI e interesse em back-end.**
+**Estudante de Desenvolvimento de Software Multiplataforma, com foco em back-end e interesse em dados/BI.**
 
-<sub>EN: Software development student focused on data/BI, interested in back-end. Open to internships.</sub>
+<sub>EN: Software development student focused on back-end, interested in data/BI. Open to internships.</sub>
 
 </div>
 
@@ -29,7 +29,17 @@
 
 <div align="center">
 
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luck16Ash&theme=github_dark&bg_color=000000&title_color=00FF41&text_color=00C853&border_color=003300&icon_color=00FF41&chart_color=00FF41" alt="Estatísticas do GitHub" />
+<img
+  height="200"
+  src="https://github-stats-extended.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
+  alt="Stats Luca"
+/>
+
+<img
+  height="200"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luck16Ash&layout=pie&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&langs_count=8&card_width=400"
+  alt="Top Langs Luca"
+/>
 
 <br/><br/>
 
