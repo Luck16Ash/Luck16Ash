@@ -1,109 +1,27 @@
 <div align="center">
 
-<img
-  src="./matrix-hero.gif"
-  alt="Matrix Rain — Luca Simões D'Agostino"
-  width="100%"
-/>
+<img src="./matrix-hero.gif" alt="Matrix Rain — Luca Simões D'Agostino" width="100%" />
 
-<br/>
+![Localização](https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brasil-000000?style=flat-square&labelColor=000000&color=003300&logo=googlemaps&logoColor=00FF41)
+![Curso](https://img.shields.io/badge/DSM%20%E2%80%94%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
+![Status](https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
 
-![Localização](https://img.shields.io/badge/São%20Paulo%2C%20Brasil-000000?style=flat-square&labelColor=000000&color=003300&logo=googlemaps&logoColor=00FF41)
-![Curso](https://img.shields.io/badge/DSM%20—%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
-![Status](https://img.shields.io/badge/Aberto%20a%20estágio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
+**Estudante de Desenvolvimento de Software Multiplataforma, com foco em back-end e interesse em dados/BI.**
+
+<sub>EN: Software development student focused on back-end, interested in data/BI. Open to internships.</sub>
 
 </div>
-
-<!-- PROJETOS EM DESTAQUE -->
 
 <div align="center">
   <img src="./matrix-projetos.gif" alt="Projetos em Destaque" width="100%" />
 </div>
 
-<table>
-  <tr>
-<td width="50%" valign="top">
-  <h3 align="center">💈 BarberShop Do Gui</h3>
-  <p align="center">
-    <a href="https://github.com/maxgodoydev/BarberShop-Do-Gui">
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=maxgodoydev&repo=BarberShop-Do-Gui&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800"
-        alt="BarberShop Do Gui"
-      />
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/contribuidor-00FF41?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" alt="Contribuidor" />
-  </p>
-  <p><strong>Sistema web para gerenciamento de barbearia.</strong></p>
-  <p>
-    <strong>🎯 Problema:</strong> Necessidade de organizar e automatizar processos operacionais de uma barbearia.<br/>
-    <strong>✅ Solução:</strong> Aplicação web com backend em Java e Spring Boot, estruturada para gerenciar as funcionalidades do negócio.<br/>
-    <strong>💡 Objetivo:</strong> Centralizar operações e facilitar a gestão da barbearia por meio de uma solução digital.
-  </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PLpgSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41&labelColor=000000&color=003300" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000&color=003300" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000&color=003300" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000&color=003300" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000&color=003300" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000&color=003300" />
-</p>
-  <hr/>
-  <p align="center" style="font-size:12px">
-    <strong>Soft-skills evidenciadas:</strong><br/>
-    Colaboração em equipe · Resolução de problemas · Organização de código
-  </p>
-  <p align="center">
-    <a href="https://github.com/maxgodoydev/BarberShop-Do-Gui">
-      <img src="https://img.shields.io/badge/REPOSITÓRIO-171B18?style=for-the-badge&logo=github&logoColor=F1ECE2" />
-    </a>
-  </p>
-</td>
-    <td width="50%" valign="top">
-      <h3 align="center">💇 Studio Patty Leão</h3>
-      <p align="center">
-        <a href="https://github.com/maxgodoydev-dotcom/studio-patty-leao">
-          <img
-  src="https://github-stats-extended.vercel.app/api/pin/?username=maxgodoydev&repo=Studio_Patty_Leao&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&border_color=003300&cache_seconds=1800"
-  alt="Studio Patty Leão"
-/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/contribuidor-00FF41?style=flat-square&labelColor=003300&color=003300&logoColor=00FF41" alt="Contribuidor" />
-      </p>
-      <p><strong>ERP web para salão de beleza — sistema em produção.</strong></p>
-      <p>
-        <strong>🎯 Problema:</strong> Controles fragmentados em cadernos, planilhas e mensagens avulsas.<br/>
-        <strong>✅ Solução:</strong> Plataforma unificada com agendamentos, agenda profissional, estoque, financeiro e BI básico.<br/>
-        <strong>💡 Impacto:</strong> Visão centralizada da operação do salão, com suporte real à gestão.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/EJS-000000?style=flat-square&logo=ejs&logoColor=00FF41&labelColor=000000&color=003300" />
-        <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=00FF41&labelColor=000000&color=003300" />
-      </p>
-      <hr/>
-      <p align="center" style="font-size:12px">
-        <strong>Soft-skills evidenciadas:</strong><br/>
-        Visão de produto · Empatia com usuário real · Entrega em ambiente de produção
-      </p>
-      <p align="center">
-        <a href="https://studio-patty-leao.onrender.com">
-          <img src="https://img.shields.io/badge/ACESSAR%20PLATAFORMA-171B18?style=for-the-badge&logo=render&logoColor=D6C5A1" />
-        </a>
-        <a href="https://github.com/maxgodoydev-dotcom/studio-patty-leao">
-          <img src="https://img.shields.io/badge/REPOSITÓRIO-171B18?style=for-the-badge&logo=github&logoColor=F1ECE2" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- GITHUB STATUS -->
+| Sistema / Repositório | Descrição | Tecnologias | Acesso |
+| :--- | :--- | :--- | :---: |
+| 💇 **[Studio Patty Leão](https://github.com/maxgodoydev/Studio_Patty_Leao)** | ERP de um salão de beleza em uso real: agendamentos, estoque, financeiro e BI básico. Projeto em equipe. **Minha parte:** Vitrine Digital com reservas de produtos, modelos Mongoose, painel administrativo e integração de autenticação. | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00FF41&labelColor=000000&color=003300) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00FF41&labelColor=000000&color=003300) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41&labelColor=000000&color=003300) ![EJS](https://img.shields.io/badge/EJS-000000?style=flat-square&logo=ejs&logoColor=00FF41&labelColor=000000&color=003300) | [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/maxgodoydev/Studio_Patty_Leao)<br>[![Online](https://img.shields.io/badge/Online-000000?style=flat-square&logo=render&logoColor=00FF41&labelColor=000000&color=003300)](https://studio-patty-leao.onrender.com) |
+| 💈 **[BarberShop Do Gui](https://github.com/maxgodoydev/BarberShop-Do-Gui)** | Sistema para uma barbearia real do bairro: agendamento online, painel da equipe e BI. Projeto em grupo. **Minha parte:** back-end em Java (agendamento, disponibilidade, reservas, acesso do cliente e site público). | ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000&color=003300) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=00FF41&labelColor=000000&color=003300) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41&labelColor=000000&color=003300) | [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/maxgodoydev/BarberShop-Do-Gui)<br><!-- TODO: botão Online com a URL do Render --> |
+| 🧁 **[PM Bem-Casados](https://github.com/Luck16Ash/PM-Bem-Casados)** | Em andamento, em squad de 5 pessoas. Plataforma para uma confeiteira do bairro divulgar os bem-casados e alcançar mais clientes. | ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000&color=003300) ![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00FF41&labelColor=000000&color=003300) | [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash/PM-Bem-Casados) |
+| 🎓 **[InteliBolsas](https://github.com/Luck16Ash/InteliBolsas)** | Sistema acadêmico para gestão e divulgação de bolsas de estudo, com cadastro, filtros e organização dos dados. | ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41&labelColor=000000&color=003300) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=000000&color=003300) | [![Código](https://img.shields.io/badge/C%C3%B3digo-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash/InteliBolsas) |
 
 <div align="center">
   <img src="./matrix-github-status.gif" alt="GitHub Status" width="100%" />
@@ -111,42 +29,12 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luck16Ash&theme=github_dark&bg_color=000000&title_color=00FF41&text_color=00C853&border_color=003300&icon_color=00FF41&chart_color=00FF41" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luck16Ash&theme=github_dark&bg_color=000000&title_color=00FF41&text_color=00C853&border_color=003300&icon_color=00FF41&chart_color=00FF41" alt="Linguagens mais usadas nos commits" />
 
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api?username=Luck16Ash&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&icon_color=00FF41&ring_color=003300&locale=pt-br&cache_seconds=1800"
-  alt="Stats Luca"
-/>
-
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luck16Ash&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00C853&langs_count=8&card_width=600"
-  alt="Top Langs Luca"
-/>
-
-</div>
-
-<div align="center">
-  <img src="./matrix-rain.gif" alt="Matrix Rain divisor" width="100%" />
-</div>
-
----
-
-<!-- CONTATO -->
-
-<div align="center">
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=003300)](https://www.linkedin.com/in/luca-d-agostino-a0061130b/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=003300)](mailto:ldagostino592@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=003300)](https://github.com/Luck16Ash)
 
-</div>
-
-<!-- CONTADOR DE VISUALIZAÇÕES -->
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Luck16Ash&style=for-the-badge&color=003300&label=VISUALIZAÇÕES+DO+PERFIL"
-    alt="Contador de visualizações do perfil"
-  />
 </div>
