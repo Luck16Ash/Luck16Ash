@@ -6,7 +6,7 @@
 ![Curso](https://img.shields.io/badge/DSM%20%E2%80%94%20FATEC%20Zona%20Sul-000000?style=flat-square&labelColor=000000&color=003300&logo=graduation-cap&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-00FF41?style=flat-square&labelColor=003300&color=00FF41&logoColor=000000)
 
-**Estudante de Desenvolvimento de Software Multiplataforma, com foco em back-end e interesse em dados/BI.**
+**Estudante de Desenvolvimento de Software Multiplataforma, com foco em dados/BI e interesse em back-end.**
 
 <sub>EN: Software development student focused on back-end, interested in data/BI. Open to internships.</sub>
 
